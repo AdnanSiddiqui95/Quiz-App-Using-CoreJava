@@ -114,9 +114,5 @@ This project demonstrates:
 * Improve score reporting.
 * Allow users to play multiple rounds.
 
----
 
-## 👨‍💻 Author
-
-Your Name
 
